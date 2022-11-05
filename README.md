@@ -1,8 +1,12 @@
 ## Hi, I'm Dylan C. Israel 👋
 
-<p><em>Senior Front End Engineer at <a href="https://clickup.com/">ClickUp
+<p><em>Senior Front End Engineer @ <a href="https://clickup.com/">ClickUp
 </a>
 </em></p>
+<p><em>Top 1% Mentor @ <a href="https://mentorcruise.com/mentor/DylanIsrael/">MentorCruise
+</a>
+</em></p>
+
 
 [![dylan310](https://img.shields.io/badge/dylan310-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan310/)
 <!-- [![GitHub Dylan-Israel](https://img.shields.io/github/followers/Dylan-Israel?label=follow&style=social)](https://github.com/Dylan-Israel) -->
