@@ -1,7 +1,7 @@
 ## Hi, I'm Dylan C. Israel 👋
 
 <p><em>Senior Front End Engineer @ <a href="https://clickup.com/">ClickUp
-</a>
+</a> & X-Amazon
 </em></p>
 <p><em>Top 1% Mentor @ <a href="https://mentorcruise.com/mentor/DylanIsrael/">MentorCruise
 </a>
