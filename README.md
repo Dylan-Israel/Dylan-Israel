@@ -7,7 +7,7 @@
 </a>
 </em></p>
 <p><em>Retired Software Content Creator @ <a href="https://youtube.com/codingtutorials360">YouTube
-  </a>, <a href="https://www.udemy.com/user/dylanisrael/">Udemy</a>, <a href="https://www.w3schools.com/typescript/">W3Schools</a>, & <a href="https://www.linkedin.com/learning/instructors/dylan-israel">LinkedIn</a>
+  </a>, <a href="https://www.udemy.com/user/dylanisrael/">Udemy</a>, <a href="https://www.w3schools.com/typescript/">W3Schools</a>, <a href="https://www.linkedin.com/learning/instructors/dylan-israel">LinkedIn</a>, & <a href="https://scrimba.com/teachers/Dylan-Israel">Scrimba</a>
 </em></p>
 
 [![dylan310](https://img.shields.io/badge/dylan310-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan310/)
